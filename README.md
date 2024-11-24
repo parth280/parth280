@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Healthcare website**
 
-- 👨‍💻 All of my projects are available at [https://tranquil-tiramisu-910f11.netlify.app](https://tranquil-tiramisu-910f11.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-new-navy.vercel.app/](https://portfolio-new-navy.vercel.app/)
 
 - 💬 Ask me about **any query**
 
